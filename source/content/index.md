@@ -2,6 +2,6 @@
 title: KYKLOSOPHIA
 ---
 
-Welcome! My name's Kyle Ostboe (bossboe). This is a public vault for my research, writing, and artwork :)
+Welcome! This is a public vault for Kyle Ostboe's research, writing, and artwork :)
 
 **To Yin:**
