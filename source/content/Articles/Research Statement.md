@@ -1,4 +1,4 @@
-Hello everyone! There's a chance you know me as [Bossboe](https://x.com/kyleostboe) on X. My name is Kyle Ostboe, I'm 23 years old, and I currently reside in Phoenix, AZ.
+Hello everyone! There's a chance you know me as [bossboe](https://x.com/kyleostboe) on X. My name is Kyle Ostboe, I'm 23 years old, and I currently reside in Phoenix, AZ.
 
 ##### Introduction
 
@@ -14,13 +14,13 @@ I started meditating back in 2019 in my dorm at Arizona State University. In the
 
 At ASU I studied computer science before transferring to the neuroscience program at the University of Arizona in 2022, graduating last fall. I do hope to continue my studies in graduate school, though at the moment I'm convinced I can be of at least equal use to the field from outside of academia.
 
-Fortunately, today, anyone with the appropriate technology and background can apply quality neuroimaging and phenomenological reporting to controlled transformations of consciousness. Done properly and scaled to a network of researchers with similar tools, I believe this approach is sufficient to uncover structural and functional invariants of experience, and to contribute relevant data to the research frontier.
+Fortunately, today, anyone with the appropriate technology and background can apply quality neuroimaging and phenomenological reporting to controlled transformations of consciousness. Done properly and scaled to a network of researchers with similar tools (see: [QRI](https://qri.org/)), I believe this approach is sufficient to uncover structural and functional invariants of experience, and to contribute relevant data to the research frontier.
 
 ## Provisional Goals
 
 1. Develop precise, reproducible scientific models along with socially digestible heuristics to describe awareness, attention, self, thought, craving, aversion, equanimity, and love, which acknowledge their irreducibly qualitative, physical, and functional/computational aspects.
 2. Identify overlooked commonalities and hidden assumptions among leading [theories of consciousness](https://www.sciencedirect.com/science/article/pii/S0079610723001128), and explore theoretical research frameworks which respect the contributions of each.
-3. Discover if phenomenology is coupled to physics, [as strong dual-aspect monism hypothesizes](https://opentheory.net/2019/06/taking-monism-seriously/), and if so, translate fundamental physical equations into experientially verifiable meditative pointers.
+3. Discover to what degree phenomenology and physics are homologous, [as strong dual-aspect monism hypothesizes](https://opentheory.net/2019/06/taking-monism-seriously/), and if so, translate fundamental physical equations into experientially verifiable meditative pointers.
 
 ##### Funding:
 
