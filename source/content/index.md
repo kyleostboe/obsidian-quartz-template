@@ -1,5 +1,4 @@
 ---
 title: bossBlog
 ---
-
-To Yin:
+**To Yin:**
