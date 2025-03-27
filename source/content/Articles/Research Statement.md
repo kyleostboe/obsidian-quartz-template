@@ -4,13 +4,13 @@ Hello everyone! There's a chance you know me as [Bossboe](https://x.com/kyleost
 
 Advances in artificial intelligence have already accelerated conflict between competing philosophies-of-mind (functionalism, physicalism, materialism, idealism, etc.), and we can't reasonably expect the public to wait for a scientific resolution before developing popular beliefs about digital sentience. As we see increasingly autonomous agents, we're increasingly likely to prematurely declare the mystery of consciousness "solved", or worse, a "red herring" (cue: fanatical reductionism, AI-related mental health crises, AI cults, ethical nihilism, and other psychosocial risks).
 
-It appears we need a "Hail Mary" to mitigate such outcomes. At the moment, the field-of-research is over-specialized, and suffers from inadequate urgency, neutrality, or incentive to reconcile leading theories of consciousness. Nevertheless, I hold that timely reconciliation is possible, though requiring total freedom of analysis at the intersection of neuroscience, psychology, phenomenology, mathematics, physics, 8biology, contemplative practice, and other relevant disciplines.
+It appears we need a "Hail Mary" to mitigate such outcomes. At the moment, the field-of-research is over-specialized, and suffers from inadequate urgency, neutrality, or incentive to reconcile leading theories of consciousness. Nevertheless, I hold that timely reconciliation is possible, though requiring total freedom of analysis at the intersection of neuroscience, psychology, phenomenology, mathematics, physics, biology, contemplative practice, and other relevant disciplines.
 
 I'm committed to this effort, and to a broader demonstration of the power a good theory of consciousness has to systematically reduce/prevent general suffering.
 
 ##### Background
 
-I started meditating back in 2019 in my dorm at Arizona State University. In the time since, I've been introduced to basic mindfulness, metta, equanimity, non-dual awareness, mild-moderate jhanas 1-5, fire kasina, and other practices. Apart from radical, lasting improvements in well-being, meditation showed me the profound access I always had to what I'd assumed to be either exceedingly difficult or impossible to examine: consciousness.
+I started meditating back in 2019 in my dorm at Arizona State University. In the time since, I've been introduced to basic mindfulness, metta, equanimity, non-dual awareness, mild-moderate jhanas 1-5, fire kasina, and other practices. Apart from radical, lasting improvements to my quality-of-life, meditation showed me the profound access I always had to what I'd assumed to be either exceedingly difficult or impossible to examine: consciousness.
 
 At ASU I studied computer science before transferring to the neuroscience program at the University of Arizona in 2022, graduating last fall. I do hope to continue my studies in graduate school, though at the moment I'm convinced I can be of at least equal use to the field from outside of academia.
 
