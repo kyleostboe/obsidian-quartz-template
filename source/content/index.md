@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: bossBlog
 ---
 
 Hello world!
