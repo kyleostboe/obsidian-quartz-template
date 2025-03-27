@@ -1,4 +1,4 @@
 ---
-title: bossBlog
+title: bossblog
 ---
 **To Yin:**
