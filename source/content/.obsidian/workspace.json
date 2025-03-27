@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -166,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +181,12 @@
   },
   "active": "53be9cd16fe97c31",
   "lastOpenFiles": [
+    "index.md",
+    "category-folder/Research Statement.md",
     "category-folder/index.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "index.md",
-    "category-folder/Research Statement.md",
     "category-folder"
   ]
 }
