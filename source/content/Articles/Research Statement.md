@@ -33,7 +33,7 @@ Fortunately, today, anyone with the appropriate technology and background can ap
 
 Research, protocols, and findings will be documented openly on [Github](https://github.com/kyleostboe), [X](https://x.com/kyleostboe), and my [blog](https://kyleostboe.github.io/obsidian-quartz-template).
 
-With this equipment, and the help of a community of researchers at the Open Research Institute and elsewhere, I'm confident that real progress can be made toward resolving the incompatibilities stalling the field. If your curious about, or would like to help fund my research, you can reach me by email at [kyle@ostboe.com](mailto:kyle@ostboe.com), or on [X](https://x.com/kyleostboe) via DM.
+With this equipment, and the help of a community of researchers at the [Open Research Institute](https://open-research-institute.github.io/) and elsewhere, I'm confident that real progress can be made toward resolving the incompatibilities stalling the field. If your curious about, or would like to help fund my research, you can reach me by email at [kyle@ostboe.com](mailto:kyle@ostboe.com), or on [X](https://x.com/kyleostboe) via DM.
 
 ##### Contact:
 
