@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Articles/Research Statement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Research Statement"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "53be9cd16fe97c31",
   "lastOpenFiles": [
-    "Articles/Research Statement.md",
     "index.md",
+    "Articles/Research Statement.md",
     "Articles/index.md",
     "This.md",
     "Articles/About Me.md",

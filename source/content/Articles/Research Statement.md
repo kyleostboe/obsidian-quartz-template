@@ -20,7 +20,7 @@ Fortunately, today, anyone with the appropriate technology and background can ap
 
 1. Develop precise, reproducible scientific models along with socially digestible heuristics to describe awareness, attention, self, thought, craving, aversion, equanimity, and love, which acknowledge their irreducibly qualitative, physical, and functional/computational aspects.
 2. Identify overlooked commonalities and hidden assumptions among leading [theories of consciousness](https://www.sciencedirect.com/science/article/pii/S0079610723001128), and explore theoretical research frameworks which respect the contributions of each.
-3. Discover if phenomenology is coupled to physics, [as hard dual-aspect monism hypothesizes](https://opentheory.net/2019/06/taking-monism-seriously/), and if so, translate fundamental physical equations into experientially verifiable meditative pointers.
+3. Discover if phenomenology is coupled to physics, [as strong dual-aspect monism hypothesizes](https://opentheory.net/2019/06/taking-monism-seriously/), and if so, translate fundamental physical equations into experientially verifiable meditative pointers.
 
 ##### Funding:
 
