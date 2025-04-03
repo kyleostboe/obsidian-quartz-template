@@ -12,7 +12,7 @@ I'm committed to this effort, and to a broader demonstration of the power a good
 
 I started meditating back in 2019 in my dorm at Arizona State University. In the time since, I've been introduced to basic mindfulness, metta, equanimity, non-dual awareness, mild-moderate jhanas 1-5, fire kasina, and other practices. Apart from radical, lasting improvements to my quality-of-life, meditation showed me the profound access I always had to what I'd assumed to be either exceedingly difficult or impossible to examine: consciousness.
 
-At ASU I studied computer science before transferring to the neuroscience program at the University of Arizona in 2022, graduating last fall. I do hope to continue my studies in graduate school, though at the moment I'm convinced I can be of at least equal use to the field from outside of academia.
+At ASU I studied computer science before moving to the neuroscience program at the University of Arizona in 2022, graduating last fall. I do hope to continue my studies in graduate school, though at the moment I'm convinced I can be of at least equal use to the field from outside of academia.
 
 Fortunately, today, anyone with the appropriate technology and background can apply quality neuroimaging and phenomenological reporting to controlled transformations of consciousness. Done properly and scaled to a network of researchers with similar tools (see: [QRI](https://qri.org/)), I believe this approach is sufficient to uncover structural and functional invariants of experience, and to contribute relevant data to the research frontier.
 
